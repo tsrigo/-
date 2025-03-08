@@ -161,8 +161,7 @@ API地址：http://localhost:8001
 ```
 
 演示如下：
-
-[连接vllm.mp4](%E8%BF%9E%E6%8E%A5vllm.mp4)
+![%E8%BF%9E%E6%8E%A5vllm.gif](%E8%BF%9E%E6%8E%A5vllm.gif)
 
 # 加载 GGUF 模型
 
